@@ -2,7 +2,7 @@
 
 🌱 Software Engineering student currently learning JavaScript, HTML, CSS, and Python.
 
-💻 Interested in frontend development, problem-solving, and building beginner-friendly projects while improving my coding skills.
+💻 Interested in frontend and backend development, problem-solving, and building beginner-friendly projects while improving my coding skills.
 
 🚀 Currently working on strengthening my fundamentals and gaining hands-on experience through practice projects.
 
