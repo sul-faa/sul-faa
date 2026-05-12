@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @sul-faa
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning html and CSS. i also want to improve my knowledge on other languages 
-- 💞️ I’m looking to collaborate on various projects and gain experience 
-- 📫 How to reach me @fateemah.sule443@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I think python is easier than html (don't think its a fun fact though 😅)
+# 👋 Hi, I’m Fatima
 
-<!---
-sul-faa/sul-faa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Software Engineering student currently learning JavaScript, HTML, CSS, and Python.
+
+💻 Interested in frontend development, problem-solving, and building beginner-friendly projects while improving my coding skills.
+
+🚀 Currently working on strengthening my fundamentals and gaining hands-on experience through practice projects.
+
+📫 Reach me: fateemah.sule443@gmail.com
